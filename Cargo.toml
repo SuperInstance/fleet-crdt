@@ -1,0 +1,8 @@
+[package]
+name = "fleet-crdt"
+version = "0.1.0"
+edition = "2021"
+description = "Constraint-Native CRDT merge protocol for distributed fleet state"
+authors = ["Forgemaster <forgemaster@cocapn.fleet>"]
+
+[dependencies]
